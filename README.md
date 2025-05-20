@@ -76,7 +76,7 @@ PasswordProtectedNoteApp/
 
 ## Run the app starting with:
 
-java LoginWindow
+java NoteVaultUI
 
 ---
 
