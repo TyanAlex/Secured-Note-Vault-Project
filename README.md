@@ -41,17 +41,29 @@ Each user has a private note vault, and all credentials are securely encrypted u
 ## 🗂️ Project Structure
 
 PasswordProtectedNoteApp/
+
 │
+
 ├── LoginWindow.java # User login interface
+
 ├── SignUpWindow.java # User registration interface
+
 ├── NoteVaultFrame.java # Main window after login
+
 ├── NoteVaultPanel.java # UI panel for note interaction
+
 ├── NoteLogic.java # File-based note handling logic
+
 ├── UserManager.java # Handles user creation, validation, encryption
+
 ├── ShiftingCipher.java # Caesar cipher encryption/decryption
+
 ├── users.txt # Stored usernames and encrypted passwords
+
 ├── vault/ # User-specific directories for notes
-└── README.md # This file
+
+└── README.md # This fil
+
 
 
 ## 🚀 Getting Started
@@ -86,7 +98,7 @@ If signed up successfully, the following message with be displayed
 
 <img width="803" alt="Screen Shot 2025-05-20 at 17 25 51" src="https://github.com/user-attachments/assets/07aac29d-4e40-4680-9ff1-68db55fff821" />
 
-- Create as many files as you want (all created file are displayed in the window on the right)
+- Create as many files as you want (all created files are displayed in the window on the right)
 
 <img width="796" alt="Screen Shot 2025-05-20 at 17 26 29" src="https://github.com/user-attachments/assets/5f08dfde-d9d3-43d2-a4ef-1658cf20beb7" />
 
@@ -94,7 +106,7 @@ If signed up successfully, the following message with be displayed
 
 <img width="799" alt="Screen Shot 2025-05-20 at 17 26 56" src="https://github.com/user-attachments/assets/892853c7-15d8-4078-bd8d-fbc400755ec7" />
 
-- If would like to blowse for files, can use the browsing button
+- If would like to browse for files, you can use the browsing button
 
 <img width="803" alt="Screen Shot 2025-05-20 at 17 27 37" src="https://github.com/user-attachments/assets/80b1def8-7b56-4e1d-b5fc-f4ce6f59c1f6" />
 
@@ -102,7 +114,7 @@ If signed up successfully, the following message with be displayed
 
 <img width="801" alt="Screen Shot 2025-05-20 at 17 28 08" src="https://github.com/user-attachments/assets/e48d26bb-1eca-4737-afc9-89b180331c87" />
 
-- To sign out or switch accounts, press sign out putton which will navigate you back to login window
+- To sign out or switch accounts, press sign out button which will navigate you back to login window
 
 <img width="399" alt="Screen Shot 2025-05-20 at 17 29 24" src="https://github.com/user-attachments/assets/3b44befa-c669-4504-a490-de146cb29db8" />
 
