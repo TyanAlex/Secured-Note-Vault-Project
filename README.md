@@ -62,9 +62,9 @@ PasswordProtectedNoteApp/
 
 ├── vault/ # User-specific directories for notes
 
-└── README.md # This fil
+└── README.md # This file
 
-
+---
 
 ## 🚀 Getting Started
 
@@ -72,9 +72,13 @@ PasswordProtectedNoteApp/
 - Java Development Kit (JDK 17+)
 - Any Java IDE (IntelliJ, Eclipse, or VSCode)
 
+---
+
 ## Run the app starting with:
 
 java LoginWindow
+
+---
 
 ## Application Flow
 
@@ -118,6 +122,7 @@ If signed up successfully, the following message with be displayed
 
 <img width="399" alt="Screen Shot 2025-05-20 at 17 29 24" src="https://github.com/user-attachments/assets/3b44befa-c669-4504-a490-de146cb29db8" />
 
+---
 
 ## 📌 Future Improvements
 
